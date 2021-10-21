@@ -28,7 +28,7 @@
   MIT
   
   # Steps
-  `npm start:dev` or go to the live page.
+  `npm run start:dev` or go to the live page.
   
   # Contact
   Got questions? contact me! : galiciar0513@gmail.com
