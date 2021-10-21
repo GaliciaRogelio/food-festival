@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"assets/img/food-table.jpg\";\n\n//# sourceURL=webpack:///./assets/img/food-table.jpg?");
+eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nTypeError: execa.stdout is not a function\\n    at /Users/rogeliogalicia/Desktop/projects/food-festival/node_modules/imagemin-mozjpeg/index.js:105:15\\n    at /Users/rogeliogalicia/Desktop/projects/food-festival/node_modules/p-pipe/index.js:12:25\");\n\n//# sourceURL=webpack:///./assets/img/food-table.jpg?");
 
 /***/ }),
 
@@ -104,7 +104,7 @@ eval("module.exports = \"assets/img/food-table.jpg\";\n\n//# sourceURL=webpack:/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"assets/img/grill.jpg\";\n\n//# sourceURL=webpack:///./assets/img/grill.jpg?");
+eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nTypeError: execa.stdout is not a function\\n    at /Users/rogeliogalicia/Desktop/projects/food-festival/node_modules/imagemin-mozjpeg/index.js:105:15\\n    at /Users/rogeliogalicia/Desktop/projects/food-festival/node_modules/p-pipe/index.js:12:25\");\n\n//# sourceURL=webpack:///./assets/img/grill.jpg?");
 
 /***/ }),
 

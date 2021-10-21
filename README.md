@@ -28,7 +28,7 @@
   MIT
   
   # Steps
-  `npm run start:dev` or go to the live page.
+  `npm run start:dev` then go to `localhost:8080` to view the live working page. 
   
   # Contact
   Got questions? contact me! : galiciar0513@gmail.com
